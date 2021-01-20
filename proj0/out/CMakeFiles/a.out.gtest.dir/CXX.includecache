@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../core/OutOfBoundsException.hpp
+
+../core/String.hpp
+
+/home/ics46/projects/proj0/gtest/StringTests.cpp
+gtest/gtest.h
+-
+OutOfBoundsException.hpp
+/home/ics46/projects/proj0/gtest/OutOfBoundsException.hpp
+String.hpp
+/home/ics46/projects/proj0/gtest/String.hpp
+
+/home/ics46/projects/proj0/gtest/gtestmain.cpp
+gtest/gtest.h
+-
+

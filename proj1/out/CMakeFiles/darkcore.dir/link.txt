@@ -1,0 +1,2 @@
+/usr/bin/ar qc lib/libdarkcore.a  CMakeFiles/darkcore.dir/core/swagGenerator.cpp.o CMakeFiles/darkcore.dir/core/swagSolver.cpp.o
+/usr/bin/ranlib lib/libdarkcore.a
